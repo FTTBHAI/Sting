@@ -31,9 +31,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "8338878571:AAEyXWfoFLcvJOp3dH3i73U1MHEXl1n9-Bc"
 DOMAIN = "https://yourdomain.com"
-ADMIN_IDS = [123456789]  # Replace with your admin user IDs
+ADMIN_IDS = [6664251010]  # Replace with your admin user IDs
 VERIFICATION_CODE = "AB12CD"  # Fixed verification code for all users
 
 # Database setup
